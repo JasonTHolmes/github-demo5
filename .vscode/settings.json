@@ -6,11 +6,24 @@
         "cities",
         "class",
         "joana",
+        "left",
         "logo",
+        "navi",
         "omnifood",
         "paleo",
         "preconnect",
         "section",
-        "t"
+        "t",
+        "tabindex"
+    ],
+    "autoprefixer.options": {
+        "browsers": [
+            "last 4 versions",
+            "ie >= 9",
+            "> 5%"
+        ]
+    },
+    "cSpell.words": [
+        "tada"
     ]
 }
